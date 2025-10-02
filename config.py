@@ -1,0 +1,13 @@
+#Настройка экрана
+
+WIDTH  = 800
+HEIGHT = 600
+FPS = 60
+
+#Цвета
+BG_COLOR = (15,80,200)
+BLACK = (0,0,0,)
+PLAYER_COLOR = (0,255,0)
+ENEMY_COLOR = (255,0,0,)
+GROUND_COLOR = (0,100,0)
+GROUND_HEIGHT = 50
